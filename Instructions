@@ -1,0 +1,12 @@
+For the midterm project, you are to conduct an exploratory data analysis of a dataset or datasets of your choosing.  These datasets should be either data pulled from an API, data scraped from the web, or data from a known source.  The final product is a notebook that contains both your code used to generate the figures/statistics and an executive summary of your work in a README.md file housed in your github repository.
+
+This project is intended to be open ended. The question you choose to answer with that data, however, is up to you, as are the methods you use.  Unlike the problem sets, there is no specific "checklist" you have to follow in order to get a good grade.
+this, as long as you demonstrate the following:
+
+Comprehensive use of python code & concepts learned over the semester thus far (30%)
+Depth of project analysis (30%)
+Clarity of questions and Interpretation of data results (30%)
+Readability/reproducibility of code/visualizations. How easy is it for someone else to understand what you are doing with your code? Would someone be able to replicate it for another project? Are your graphs legible? Do they have titles, appropriate axis, easily understood legends (10%)?
+The code behind the graphs and statistics included in articles you read online is often made available to the public so it can assist others in their work and to help with reproducibility of results. Your Notebook should be created with this in mind, though you do not need to write paragraphs explaining every for-loop; simple notes on what a certain group of lines do is satisfactory.
+
+Your dataset should have at least 12 features of mixed numeric and categorical data types and at least 300 rows, there are exceptions if you are using different kinds of data -- please just discuss with me if you have any questions.  Your writeup should be in the range of 1500 words, formatted appropriately, and contain all relevant references and labels.
