@@ -1,4 +1,4 @@
-# Instructions
+# Project Instructions
 
 For the midterm project, you are to conduct an exploratory data analysis of a dataset or datasets of your choosing.  These datasets should be either data pulled from an API, data scraped from the web, or data from a known source.  The final product is a notebook that contains both your code used to generate the figures/statistics and an executive summary of your work in a README.md file housed in your github repository.
 
