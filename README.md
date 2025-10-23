@@ -1,6 +1,11 @@
 
 # NBA Team Exploratory Data Analysis: Using 2021–22 Metrics as a Predictor of 2022–23 Success
 
+## Team Members 
+1. Solomon Roy (sr7018@nyu.edu)
+2. Emiliano Eguez (ee2488@nyu.edu)
+3. Lucas Huang (ljh9448@nyu.edu)
+
 **Goal:** Use team level advanced metrics from the 2021–22 season to understand what best explains following season's outcomes, proxied by 2022–23 win percentages.  
 
 We combine NBA Stats API advanced metrics (offense/defense) with opponent/defensive indicators and an external age feature from Kaggle, then explore correlation structure and targeted interactions.  
